@@ -13,7 +13,7 @@ public class infoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_info);
         getSupportActionBar().setTitle("A propos");
-
+        //Navigation Buttom Added here
         button_nav=findViewById(R.id.navigation_bottom);
         button_nav.setSelectedItemId(R.id.navigation_store);
         button_nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
