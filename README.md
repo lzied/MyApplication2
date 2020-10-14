@@ -1,3 +1,3 @@
 # MyApplication2
 
-This application was made for Testing all the components of the android
+This application was made for Testing components of android
